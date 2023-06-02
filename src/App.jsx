@@ -1,4 +1,5 @@
 import './App.css'
+import Banner from './componant/Banner/Banner'
 import Footer from './componant/Footer/Footer'
 import Navbar from './componant/Navbar/Navbar'
 
@@ -8,6 +9,7 @@ function App() {
   return (
     <div>
       <Navbar></Navbar>
+      <Banner></Banner>
       <Footer></Footer>
     </div>
   )
