@@ -11,7 +11,7 @@ const Footer = () => {
                     <img src={logo} className="w-32" alt="t"/>
                   </div>
                   
-                  <p className="w-11/12 leading-loose text-slate-500 text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                  <p className="w-11/12 leading-loose text-slate-500 text-start mt-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 </div>
                 <div className="col-span-12 md:col-span-6 lg:col-span-4">
                   <p className="text-xl font-semibold pb-7 pt-10 md:pt-2 text-start">Helpful Links</p>
